@@ -1,8 +1,7 @@
 name: Build & Deploy Eureka-server to EC2 (JDK 21)
 
 on:
-  push:
-    branches: [ "master" ]
+  workflow_dispatch:
 
 jobs:
   build:
