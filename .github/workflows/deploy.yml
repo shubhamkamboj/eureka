@@ -1,4 +1,4 @@
-name: Build & Deploy Eureka-server to EC2 (JDK 21)
+name: Eureka-Server
 
 on:
   workflow_dispatch:
